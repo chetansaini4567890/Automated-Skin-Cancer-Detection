@@ -66,3 +66,7 @@ The project uses the HAM10000 dataset, containing over 10,000 dermoscopic skin l
 
 ## Author
 Chetan Saini (B.Tech – Artificial Intelligence & Data Science)
+Abhay Bansal (B.Tech – Artificial Intelligence & Data Science)
+
+## Project Type
+This project was developed as a collaborative academic project by the above team members.
